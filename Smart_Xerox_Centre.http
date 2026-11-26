@@ -1,0 +1,6 @@
+@Smart_Xerox_Centre_HostAddress = http://localhost:5038
+
+GET {{Smart_Xerox_Centre_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
